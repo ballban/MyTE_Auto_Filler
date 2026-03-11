@@ -1,10 +1,14 @@
 // ==UserScript==
 // @name         myTE Smart Filler (Overtime Fixed v16)
 // @namespace    http://tampermonkey.net/
-// @version      16.0
-// @description  Vibe coded shit to auto-fill myTE work time.
+// @version      16.1
+// @description  Vibe coded shit to auto-fill myTE work time with optional overtime synchronization.
 // @author       Jung Dabin
 // @match        https://myte.accenture.com/*
+// @homepageURL  https://github.com/ballban/MyTE_Auto_Filler
+// @supportURL   https://github.com/ballban/MyTE_Auto_Filler/issues
+// @downloadURL  https://raw.githubusercontent.com/ballban/MyTE_Auto_Filler/main/myte-smart-filler.user.js
+// @updateURL    https://raw.githubusercontent.com/ballban/MyTE_Auto_Filler/main/myte-smart-filler.user.js
 // @grant        none
 // ==/UserScript==
 
