@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/ballban/MyTE_Auto_Filler/main/myte-smart-fille
 4. Reload the myTE page, then click `Working Hours`.
 5. If the script is working, you will see something like this:
    ![alt text](assets/Example.png)
-6. Click `START FILLING`!!
+6. Click `START FILLING` and wait until `Done` alert appears.
 
 ## Tampermonkey
 
