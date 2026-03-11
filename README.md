@@ -1,6 +1,7 @@
 # MyTE Auto Filler (Tampermonkey)
 
 This repository has a Tampermonkey userscript that auto-fills myTE working hours.
+If you have overtime, the script can also synchronize it automatically.
 
 ## How to use
 
@@ -15,6 +16,7 @@ https://raw.githubusercontent.com/ballban/MyTE_Auto_Filler/main/myte-smart-fille
 4. Reload the myTE page, then click `Working Hours`.
 5. If the script is working, you will see something like this:
    ![alt text](assets/Example.png)
+6. Click `START FILLING`!!
 
 ## Tampermonkey
 
