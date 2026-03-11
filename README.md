@@ -1,8 +1,8 @@
 # MyTE Auto Filler (Tampermonkey)
 
-This repository contains a Tampermonkey userscript for auto-filling myTE work time.
+This repository has a Tampermonkey userscript that auto-fills myTE working hours.
 
-## Install from GitHub
+## How to use
 
 1. Install Tampermonkey in your browser.
 2. Open this URL in your browser:
@@ -11,21 +11,18 @@ This repository contains a Tampermonkey userscript for auto-filling myTE work ti
 https://raw.githubusercontent.com/ballban/MyTE_Auto_Filler/main/myte-smart-filler.user.js
 ```
 
-4. Tampermonkey will open an install page. Click `Install`.
+3. Tampermonkey will open the install page. Click `Install`.
+4. Reload the myTE page, then click `Working Hours`.
+5. If the script is working, you will see something like this:
+   ![alt text](assets/Example.png)
 
-## Share with others
+## Tampermonkey
 
-Use this same raw URL as your public install link:
-
-```text
-https://raw.githubusercontent.com/ballban/MyTE_Auto_Filler/main/myte-smart-filler.user.js
-```
+1. Make sure `Developer mode` is enabled in your browser extension settings.
+   ![alt text](assets/Extensions.png)
+2. Make sure Tampermonkey and this script are enabled in the Tampermonkey menu.
+   ![alt text](assets/Tampermonkey.png)
 
 ## Update behavior
 
-If users install from the `raw.githubusercontent.com` URL, Tampermonkey can check for updates from the same URL.
-
-## Development
-
-- Main userscript file: `myte-smart-filler.user.js`
-- Target site: `https://myte.accenture.com/*`
+If you install from the `raw.githubusercontent.com` URL, Tampermonkey can check updates from the same URL.
