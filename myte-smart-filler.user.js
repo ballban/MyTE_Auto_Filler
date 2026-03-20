@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         myTE Smart Filler
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      17.0.0
 // @description  Vibe coded shit to auto-fill myTE work time with optional overtime synchronization.
 // @author       Jung Dabin
 // @match        https://myte.accenture.com/*
